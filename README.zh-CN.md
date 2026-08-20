@@ -15,7 +15,7 @@
 
 ---
 
-RockFlow 提供托管的 MCP（Model Context Protocol）服务，让你在 Claude、Cursor、Codex 等 AI 客户端中直接使用 RockFlow 的行情、期权与账户交易能力，无需申请或管理 API 密钥。
+[RockFlow](https://rockflow.ai/mcp?utm_source=github&utm_campaign=MCP&utm_content=001) 提供托管的 MCP（Model Context Protocol）服务，让你在 Claude、Cursor、Codex 等 AI 客户端中直接使用 RockFlow 的行情、期权与账户交易能力，无需申请或管理 API 密钥。
 
 ![RockFlow MCP](assets/hero-zh.png)
 
@@ -102,7 +102,7 @@ OAuth 授权过程中可以选择授权模拟盘或实盘账户：
 
 ## 前置条件
 
-- 已拥有 RockFlow 账户；使用模拟盘不要求完成开户，注册 RockFlow ID 即可。
+- 已拥有 [RockFlow 账户](https://rockflow.ai/mcp?utm_source=github&utm_campaign=MCP&utm_content=001)；使用模拟盘不要求完成开户，注册 RockFlow ID 即可。
 - 使用支持 MCP OAuth 2.1 标准的 AI 客户端（见下方[客户端兼容性](#客户端兼容性)）。
 
 ## 客户端接入
@@ -221,5 +221,5 @@ RockFlow MCP 处于持续迭代阶段，欢迎通过以下渠道反馈问题与�
 ---
 
 <p align="center">
-  <sub>RockFlow — 新一代 AI 投资。也欢迎体验 RockFlow 旗下 AI 投资助理 <a href="https://bobby.ai/">Bobby AI</a>。</sub>
+  <sub><a href="https://rockflow.ai/mcp?utm_source=github&utm_campaign=MCP&utm_content=001">RockFlow</a> — 新一代 AI 投资。也欢迎体验 RockFlow 旗下 AI 投资助理 <a href="https://rockflow.ai/mcp?utm_source=github&utm_campaign=MCP&utm_content=001">Bobby AI</a>。</sub>
 </p>

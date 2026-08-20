@@ -15,7 +15,7 @@
 
 ---
 
-RockFlow offers a hosted MCP (Model Context Protocol) service, so you can use RockFlow market data, options and account trading capabilities directly in Claude, Cursor, Codex and other AI clients — with no API keys to request or manage.
+[RockFlow](https://rockflow.ai/mcp?utm_source=github&utm_campaign=MCP&utm_content=001) offers a hosted MCP (Model Context Protocol) service, so you can use RockFlow market data, options and account trading capabilities directly in Claude, Cursor, Codex and other AI clients — with no API keys to request or manage.
 
 ![RockFlow MCP](assets/hero-en.png)
 
@@ -102,7 +102,7 @@ During OAuth authorization you choose whether to authorize a **paper** or a **li
 
 ## Prerequisites
 
-- A RockFlow account. Paper trading does not require a fully opened brokerage account — a RockFlow ID is enough.
+- A [RockFlow account](https://rockflow.ai/mcp?utm_source=github&utm_campaign=MCP&utm_content=001). Paper trading does not require a fully opened brokerage account — a RockFlow ID is enough.
 - An AI client that supports the MCP OAuth 2.1 standard (see [Client compatibility](#client-compatibility) below).
 
 ## Client Setup
@@ -221,5 +221,5 @@ RockFlow MCP is under active iteration — issues and suggestions are welcome th
 ---
 
 <p align="center">
-  <sub>RockFlow — next-generation AI investing. Also check out <a href="https://bobby.ai/">Bobby AI</a>, RockFlow's AI investment assistant.</sub>
+  <sub><a href="https://rockflow.ai/mcp?utm_source=github&utm_campaign=MCP&utm_content=001">RockFlow</a> — next-generation AI investing. Also check out <a href="https://rockflow.ai/mcp?utm_source=github&utm_campaign=MCP&utm_content=001">Bobby AI</a>, RockFlow's AI investment assistant.</sub>
 </p>
